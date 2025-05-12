@@ -1,4 +1,5 @@
 # Combining Large Language Model Embeddings and Graph Neural Networks for Accurate Job Recommendations
+
 ## Experiments
 
 Each `.py` file in this repository represents a separate experiment. To run an experiment, place the required data files in the same directory as the script and execute:
@@ -17,12 +18,7 @@ Replace `Hybrid.py` with the name of the desired experiment script.
 
 ## Data
 
-All data files are stored in the following Drive folder:
-
-[https://drive.google.com/drive/folders/1GEtlWpZZ-U23eYymkUIf3tXbZpSyocMV?usp=drive\_link](https://drive.google.com/drive/folders/1GEtlWpZZ-U23eYymkUIf3tXbZpSyocMV?usp=drive_link)
-
-1. Download the contents of the folder.
-2. Place the downloaded files into the same directory as your experiment scripts.
+The dataset is stored in a private Google Drive folder and contains the author's proprietary data. Access to the folder(pre‑processed data and ready‑to‑use LLM embeddings) will be granted once the paper is accepted to preserve anonymity. Please follow the preprocessing steps detailed in the paper to generate the same data.
 
 ## Installation
 
