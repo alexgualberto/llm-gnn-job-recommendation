@@ -18,7 +18,8 @@ Replace `Hybrid.py` with the name of the desired experiment script.
 
 ## Data
 
-The dataset is stored in a private Google Drive folder and contains the author's proprietary data. Access to the folder(pre‑processed data and ready‑to‑use LLM embeddings) will be granted once the paper is accepted to preserve anonymity. Please follow the preprocessing steps detailed in the paper to generate the same data.
+The dataset is stored in a [Google Drive folder](https://drive.google.com/drive/folders/1GEtlWpZZ-U23eYymkUIf3tXbZpSyocMV?usp=sharing) and contains the pre‑processed data and ready‑to‑use LLM embeddings. Please follow the preprocessing steps detailed in the paper to reproduce the dataset if needed.
+
 
 ## Installation
 
